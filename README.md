@@ -29,7 +29,7 @@
 ---
 
 ## Research Paper Link
-
+**Published Paper at ATIFTAP Conference**: [](https://static1.squarespace.com/static/5b85162bcc8fedc767ff5676/t/692a9a8a1c753c57a56c6974/1764399754599/JGB+19338+.pdf)
 **Data Science & AI Collaboration Paper**: [Google Docs Link](https://docs.google.com/document/d/1a-1uPP00MpgHOdbdkgsLs-jIF1fq0K1_aQk4ueAFaqg/edit?usp=sharing)
 
 ---
